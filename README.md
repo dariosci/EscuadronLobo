@@ -11,4 +11,4 @@ Integrantes:
 - Montoya Matías
 - Moreno Juan
 - Scilipoti Darío
-- Altamiranda Matías
+- Altamiranda Matías **
