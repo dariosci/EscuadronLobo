@@ -7,8 +7,7 @@ Integrantes:
 - Farias Andrea Cecilia
 - Bertolone Valentín
 - Zelada Orlando
-- Sosa Jairo
 - Montoya Matías
 - Moreno Juan
 - Scilipoti Darío
-- Altamiranda Matías **
+- Altamiranda Matías
